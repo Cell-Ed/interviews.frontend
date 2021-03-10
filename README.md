@@ -1,6 +1,6 @@
 ![Cell-Ed Header Banner](assets/images/celled-header-banner.jpeg)
 
-# Front-End Software Developer Interview Question
+# Front-End Software Developer Interview Take-Home Question
 
 Let's assume that you are helping a pet rescue center create a front-end application to process their "pet inventory". To the best of your ability attempt to create a [React](https://reactjs.org/) or [Vue](https://vuejs.org/) application that meets the needs of the following specifications; feel free to use any  tool that you are comfortable with in these frameworks to achieve this.
 
@@ -15,6 +15,7 @@ Let's assume that you are helping a pet rescue center create a front-end applica
 ## Goal(s)
 
 - Show off your experience creating & documenting maintanable component architectures with best practices in [React](https://reactjs.org/) or [Vue](https://vuejs.org/).
+- Show off your experience creating beautiful & intuitive user interfaces with [TailwindCSS](https://tailwindcss.com/), [Bulma CSS](https://bulma.io/), [Bootstrap](https://getbootstrap.com/) or similar CSS framework.
 - Show off your experience using [React Redux](https://react-redux.js.org/), [Vuex](https://vuex.vuejs.org/), or other state management tools.
 - Show off your experience using client-side storage - e.g. [`localStorage`](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage), [`sessionStorage`](https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage), [`IndexedDB`](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/indexedDB), etc.
 - Show off your experience using [React Router](https://reactrouter.com/), [Vue Router](https://router.vuejs.org/), or other front-end route management tools.
@@ -29,7 +30,7 @@ Let's assume that you are helping a pet rescue center create a front-end applica
 1. Create a fork of this repository to your personal GitHub
 2. Try your best to impress yourself! 😁
 3. Create a pull request to `Cell-Ed/interviews.frontend` from your personal GitHub repository.
-4. Create an issue at `Cell-Ed/interviews.frontend` titled `Your Name Submission MM-DD-YYYY`
+4. [Create an issue](https://github.com/Cell-Ed/interviews.frontend/issues/new/choose) at [`Cell-Ed/interviews.frontend`](https://github.com/Cell-Ed/interviews.frontend/issues/new/choose) titled `Your Name Submission MM-DD-YYYY`
 5. Follow up with your interview Point-of-Contact (POC) for next steps. 🚀
 
 ## Note(s)
