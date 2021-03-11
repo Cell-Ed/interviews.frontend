@@ -23,6 +23,7 @@ Let's assume that you are helping a pet rescue center create a front-end applica
 - **Bonus Points:** Show off your experience with creating/using accessibility tooling - e.g. text-to-speech, keyboard-navigation.
 - **Bonus Points:** Show off your experience with creating/using applications for network bottlenecked user groups - e.g. gzip, async/defer script/link tags, etc.
 - **Bonus Points:** Show off your experience creating internalized applications using concepts/tools such as L10N, I18N, T9N, etc.
+- **Double Bonus Points:** Show off your experience creating front-end test suites - e.g. Jest/Puppeteer/etc. with Puppeteer/Cypress/Nightwatch/etc.
 - **Double Bonus Points:** Show off your experience consuming  backend API - e.g. ExpressJS & MongoDB, Django & PostgreSQL, etc.
 
 ## Submission(s)
