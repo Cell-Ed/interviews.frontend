@@ -25,6 +25,7 @@ Let's assume that you are helping a pet rescue center create a front-end applica
 - **Bonus Points:** Show off your experience creating internalized applications using concepts/tools such as L10N, I18N, T9N, etc.
 - **Double Bonus Points:** Show off your experience creating front-end test suites - e.g. Jest/Puppeteer/etc. with Puppeteer/Cypress/Nightwatch/etc.
 - **Double Bonus Points:** Show off your experience consuming  backend API - e.g. ExpressJS & MongoDB, Django & PostgreSQL, etc.
+- **Double Bonus Points:** Show off your experience consuming containerizing applications - e.g. creating a `Dockerfile`, creating a `.devcontainer.json` (VSCode), etc.
 
 ## Submission(s)
 
