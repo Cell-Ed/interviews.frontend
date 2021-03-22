@@ -5,15 +5,15 @@
         <b-col md="6">
           <h1 class="home__headline">Hi CELL-ED!</h1>
           <p>
-            My name is Tru and welcome to my pet inventory project! Over the
-            past week, I spent my limited extra time in between family and a
-            full-time job to showcase my skills. I recognize that with the short
-            time constraints, there are still so much potential and
-            opportunities that are currently less than ideal. Some of the areas
-            I would have loved to invest in, not conclusively, would be
-            accessibility, scalable components library, refactoring current
-            components, and organizing vuex structure. Thank you for your time
-            and consideration and I hope you enjoy my project!
+            My name is Tru and welcome to my Pet Inventory Project! Over the
+            past week, I have spent my limited personal time in between family
+            and a full-time job to showcase my skills. I recognize that with the
+            short time constraint, there are many potential and opportunities
+            that are currently less than ideal. Some of the areas I would have
+            loved to invest in, not conclusively, would be accessibility,
+            scalable components library, refactoring current components, and
+            organizing vuex structure. Thank you for your time and consideration
+            and I hope you enjoy my project!
           </p>
         </b-col>
         <b-col md="6">
